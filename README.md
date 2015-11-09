@@ -1,0 +1,1 @@
+In Norway, no one can hear you basename $(pwd)
